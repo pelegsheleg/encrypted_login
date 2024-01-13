@@ -32,7 +32,7 @@ This script implements a user authentication system using a graphical user inter
 ## Usage
 Run the script using Python:
 ```
-python script_name.py
+python login.py
 ```
 - On launching, the main window will provide options to log in, register a new user, or exit the application.
 - For registration, the system checks for password strength and uniqueness of the username.
